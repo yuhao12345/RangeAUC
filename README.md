@@ -62,3 +62,8 @@ thing occurs in the PR curve, where the area below rangePR is much smaller than 
 A variant version of rangeAUC is to scan different windows from 0
 to the period of the series. Then the average rangeAUC is the volume under the TPR-FPR-window surface divided by the range of the window. 
 
+
+## Cite this Work:
+If you find this  work useful, you may cite this work:
+```
+```
